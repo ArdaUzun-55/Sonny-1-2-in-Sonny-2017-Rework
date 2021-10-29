@@ -18,11 +18,12 @@ BIO, Hydro, Psycho and the Trees from Sonny 1.
 You will see the difference when you start the game!
 Also the download inculdes a resources.assets. You need it in order to make some fights work better. One example the Baron brixius (Gadi'kala) fight now it will automaticlly end when he reaches 10% HP. And also some other things.
 In Zone 9 Yosukes and Klimas and The Judges armor is avaible through training battles&by continuing.
-
+--------------------------------------------------------------------------
 Whats Incoming? 
 1. The Cosmic Element
 2. Then a secret
-Download&Download Instructions 
+--------------------------------------------------------------------------
+Download&Download Instructions
 Download Link = https://drive.google.com/file/d/1FUe1BT_v1k58B04lblzDnzFOCEmvbXWo/view?usp=sharing
 Easy Difficulty: https://drive.google.com/file/d/1Wcp_V_DRDcsKUz4E-E3qkBHL5QW8fqau/view?usp=sharing
 Heroic Difficulty: https://drive.google.com/file/d/1aGSWEqKtxZJKTELXwrfqCxpGk93sWWTv/view?usp=sharing

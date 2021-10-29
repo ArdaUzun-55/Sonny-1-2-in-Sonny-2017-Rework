@@ -22,7 +22,7 @@ In Zone 9 Yosukes and Klimas and The Judges armor is avaible through training ba
 Whats Incoming? 
 1. The Cosmic Element
 2. Then a secret
--
+
 Download&Download Instructions
 Download Link = https://drive.google.com/file/d/1FUe1BT_v1k58B04lblzDnzFOCEmvbXWo/view?usp=sharing
 Easy Difficulty: https://drive.google.com/file/d/1Wcp_V_DRDcsKUz4E-E3qkBHL5QW8fqau/view?usp=sharing
@@ -97,4 +97,4 @@ Suggestions/Feedbacks
 Suggestions&Feedbacks are highly welcome I love seeing comments about my mods!
 If you have problems downloading or need advice because the fights are to difficult you can also write it in the comment section!
 Kind Regards
-Z4R4K1
+Dreaming Kshatriya

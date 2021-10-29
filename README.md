@@ -84,9 +84,13 @@ Just replace the AssemblyCsharp.dll and install the new apk. It will ask you if 
 
 VERSION CHANGES 
 -Added Easy (1.1) and Heroic (1.375) Difficulty.
--1.42 (22.10.2021) = Enemy nerfs in Zone1 & Default Strain now doesnt give -Physical Power instead its normal. Quick Strike&Suppression added into the Default Strain -(Melee) but Bloodfocus& BloodFocus are moved to the other default Strain (Magic)
+
+-1.42 (22.10.2021) = Enemy nerfs in Zone1 & Default Strain now doesnt give -Physical Power instead its normal. Quick Strike&Suppression added into the Default Strain (Melee) but Bloodfocus& BloodFocus are moved to the other default Strain (Magic)
+
 -1.43 (26.10.2021) = Some changes. (Important update)
+
 -1.44 (28.10.2021) = Oberusel changes (buffs)
+
 -1.45 (29.10.2021) = Bug fix
 
 Suggestions/Feedbacks 

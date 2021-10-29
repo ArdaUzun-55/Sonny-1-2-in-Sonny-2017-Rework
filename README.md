@@ -23,13 +23,9 @@ Whats Incoming?
 1. The Cosmic Element
 2. Then a secret
 
-Download&Download Instructions
-Download Link = https://drive.google.com/file/d/1FUe1BT_v1k58B04lblzDnzFOCEmvbXWo/view?usp=sharing
-Easy Difficulty: https://drive.google.com/file/d/1Wcp_V_DRDcsKUz4E-E3qkBHL5QW8fqau/view?usp=sharing
-Heroic Difficulty: https://drive.google.com/file/d/1aGSWEqKtxZJKTELXwrfqCxpGk93sWWTv/view?usp=sharing
-(Phone)
+Phone Version will come later but is already in work
 
-I will release it when Its ready.
+Download Instructions
 
 1.Step = Download the rar.file from the link down below.
 

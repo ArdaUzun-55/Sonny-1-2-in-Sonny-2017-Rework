@@ -7,14 +7,23 @@ Pc Release Date: 14.10.2021
 Phone Release Date: Im thinking when to release it I still need to do it.
 What this Mod changes! 
 This Mod changes everything this includes:
-Items,
-Fights&Waves,
-Enemies,
-Abilities,
-Allies,
-Ability Tree,
-Adds new Strains
-BIO, Hydro, Psycho and the Trees from Sonny 1.
+
+-Items,
+
+-Fights&Waves,
+
+-Enemies,
+
+-Abilities,
+
+-Allies,
+
+-Ability Tree,
+
+-Adds new Strains
+
+-BIO, Hydro, Psycho and the Trees from Sonny 1.
+
 You will see the difference when you start the game!
 Also the download inculdes a resources.assets. You need it in order to make some fights work better. One example the Baron brixius (Gadi'kala) fight now it will automaticlly end when he reaches 10% HP. And also some other things.
 In Zone 9 Yosukes and Klimas and The Judges armor is avaible through training battles&by continuing.

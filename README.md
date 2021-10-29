@@ -96,6 +96,6 @@ VERSION CHANGES
 
 Suggestions/Feedbacks 
 Suggestions&Feedbacks are highly welcome I love seeing comments about my mods!
-If you have problems downloading or need advice because the fights are to difficult you can also write it in the Steam or Sonny wiki comment section!
+If you have problems downloading or need advice because the fights are to difficult you can also write it in Discussion Section!
 Kind Regards
 Dreaming Kshatriya

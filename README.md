@@ -18,7 +18,7 @@ BIO, Hydro, Psycho and the Trees from Sonny 1.
 You will see the difference when you start the game!
 Also the download inculdes a resources.assets. You need it in order to make some fights work better. One example the Baron brixius (Gadi'kala) fight now it will automaticlly end when he reaches 10% HP. And also some other things.
 In Zone 9 Yosukes and Klimas and The Judges armor is avaible through training battles&by continuing.
---------------------------------------------------------------------------
+
 Whats Incoming? 
 1. The Cosmic Element
 2. Then a secret
@@ -30,7 +30,7 @@ Heroic Difficulty: https://drive.google.com/file/d/1aGSWEqKtxZJKTELXwrfqCxpGk93s
 (Phone)
 
 I will release it when Its ready.
---------------------------------------------------------------------------
+-
 1.Step = Download the rar.file from the link down below.
 
 2.Step = Copy it and paste it in your steam Sonny folder -> Steam\steamapps\common\Sonny\SonnyWindows_Data\Managed.
@@ -45,7 +45,7 @@ I will release it when Its ready.
 Its in Steam\steamapps\common\Sonny\SonnyWindows_Data.
 
 5.Step = Open the game and enjoy!!!!
---------------------------------------------------------------------------
+-
 How to install (Phone)
 
 With a PC:
@@ -65,7 +65,7 @@ You need APK editor to install this Mod.
 6.Step Deinstall the normal game and install the new game.
 
 7.Step play the game
---------------------------------------------------------------------------
+-
 
 Without a PC:
 
@@ -82,10 +82,11 @@ You need APK editor to install this Mod.
 5.Step Deinstall the normal game and install the new game.
 
 6.Step play the game
---------------------------------------------------------------------------
+-
 HOW TO UPDATE
 
 Just replace the AssemblyCsharp.dll and install the new apk. It will ask you if you want to update the game and you need to choose "yes". You dont need to deinstall the game.
+
 VERSION CHANGES 
 Added Easy (1.1) and Heroic (1.375) Difficulty.
 1.42 (22.10.2021) = Enemy nerfs in Zone1 & Default Strain now doesnt give -Physical Power instead its normal. Quick Strike&Suppression added into the Default Strain (Melee) but Bloodfocus& BloodFocus are moved to the other default Strain (Magic)

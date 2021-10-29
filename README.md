@@ -22,7 +22,7 @@ In Zone 9 Yosukes and Klimas and The Judges armor is avaible through training ba
 Whats Incoming? 
 1. The Cosmic Element
 2. Then a secret
---------------------------------------------------------------------------
+-
 Download&Download Instructions
 Download Link = https://drive.google.com/file/d/1FUe1BT_v1k58B04lblzDnzFOCEmvbXWo/view?usp=sharing
 Easy Difficulty: https://drive.google.com/file/d/1Wcp_V_DRDcsKUz4E-E3qkBHL5QW8fqau/view?usp=sharing
@@ -30,7 +30,7 @@ Heroic Difficulty: https://drive.google.com/file/d/1aGSWEqKtxZJKTELXwrfqCxpGk93s
 (Phone)
 
 I will release it when Its ready.
--
+
 1.Step = Download the rar.file from the link down below.
 
 2.Step = Copy it and paste it in your steam Sonny folder -> Steam\steamapps\common\Sonny\SonnyWindows_Data\Managed.
@@ -45,7 +45,7 @@ I will release it when Its ready.
 Its in Steam\steamapps\common\Sonny\SonnyWindows_Data.
 
 5.Step = Open the game and enjoy!!!!
--
+
 How to install (Phone)
 
 With a PC:
@@ -65,7 +65,6 @@ You need APK editor to install this Mod.
 6.Step Deinstall the normal game and install the new game.
 
 7.Step play the game
--
 
 Without a PC:
 
@@ -82,7 +81,7 @@ You need APK editor to install this Mod.
 5.Step Deinstall the normal game and install the new game.
 
 6.Step play the game
--
+
 HOW TO UPDATE
 
 Just replace the AssemblyCsharp.dll and install the new apk. It will ask you if you want to update the game and you need to choose "yes". You dont need to deinstall the game.
@@ -93,6 +92,7 @@ Added Easy (1.1) and Heroic (1.375) Difficulty.
 1.43 (26.10.2021) = Some changes. (Important update)
 1.44 (28.10.2021) = Oberusel changes (buffs)
 1.45 (29.10.2021) = Bug fix
+
 Suggestions/Feedbacks 
 Suggestions&Feedbacks are highly welcome I love seeing comments about my mods!
 If you have problems downloading or need advice because the fights are to difficult you can also write it in the comment section!

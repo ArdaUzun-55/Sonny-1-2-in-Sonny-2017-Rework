@@ -38,7 +38,7 @@ Phone Version will come later but is already in work
 
 Download Instructions
 
-1.Step = Download the rar.file from the link down below.
+1.Step = Download the rar.file from the releases section.
 
 2.Step = Copy it and paste it in your steam Sonny folder -> Steam\steamapps\common\Sonny\SonnyWindows_Data\Managed.
 
@@ -59,7 +59,7 @@ With a PC:
 
 You need APK editor to install this Mod.
 
-1.Step Download and extract the zip files.
+1.Step Download and extract the zip files from the releases section.
 
 2.Step install the APK editor.
 
@@ -77,7 +77,7 @@ Without a PC:
 
 You need APK editor to install this Mod.
 
-1.Step Download the AssemblyCsharp.dll.
+1.Step Download both the AssemblyCsharp.dll and resources.assets from the releases section.
 
 2.Step install the APK editor.
 

@@ -105,6 +105,10 @@ VERSION CHANGES
 
 -1.45 (29.10.2021) = Bug fix
 
+-1.46 (31.10.2021) = Zone 5 enemy buffs& nerfs and Item buffs 
+
+-1.47 (1.11.2021) = minor changes
+
 Suggestions/Feedbacks 
 Suggestions&Feedbacks are highly welcome I love seeing comments about my mods!
 If you have problems downloading or need advice because the fights are to difficult you can also write it in Discussion Section!

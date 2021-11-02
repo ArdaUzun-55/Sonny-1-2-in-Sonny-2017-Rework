@@ -109,6 +109,12 @@ VERSION CHANGES
 
 -1.47 (1.11.2021) = minor changes
 
+-1.48 (2.11.2021) = 
+    Regulates buff time is increased from 3 turns to 12
+    Bug Fix
+    Enemy buffs Hew
+
+
 Suggestions/Feedbacks 
 Suggestions&Feedbacks are highly welcome I love seeing comments about my mods!
 If you have problems downloading or need advice because the fights are to difficult you can also write it in Discussion Section!

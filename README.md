@@ -4,7 +4,7 @@ Name: Sonny 1&2 but in Sonny 2017
 
 Pc Release Date: 14.10.2021
 
-Phone Release Date: Im thinking when to release it I still need to do it.
+Phone Release Date: 10.11.2021
 
 What this Mod changes! 
 
@@ -34,7 +34,7 @@ Whats Incoming?
 1. The Cosmic Element
 2. Then a secret
 
-Phone Version will come later but is already in work
+Phone Version is out!
 
 Download Instructions
 

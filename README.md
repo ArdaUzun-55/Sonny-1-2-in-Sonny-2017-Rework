@@ -77,7 +77,7 @@ Without a PC:
 
 You need APK editor to install this Mod.
 
-1.Step Download both the AssemblyCsharp.dll from the releases section.
+1.Step Download the AssemblyCsharp.dll from the releases section.
 
 2.Step install the APK editor.
 

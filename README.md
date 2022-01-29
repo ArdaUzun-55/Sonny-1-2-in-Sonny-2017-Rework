@@ -117,9 +117,13 @@ VERSION CHANGES
     buffed Sinjids Mana Bomb
     nerfed the hydraulic (Frost) strain
     Phone Mod is coming soon!
+-1.492 (29.01.2022) =
+    Felicity didnt enter Phase 2 when she reaches 50% HP fixed it
+    Agile Exposure Short description fixed
 
 
 Suggestions/Feedbacks 
+
 Suggestions&Feedbacks are highly welcome I love seeing comments about my mods!
 If you have problems downloading or need advice because the fights are to difficult you can also write it in Discussion Section!
 Kind Regards

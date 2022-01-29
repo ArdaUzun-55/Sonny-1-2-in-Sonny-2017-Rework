@@ -113,6 +113,7 @@ VERSION CHANGES
     Regulates buff time is increased from 3 turns to 12
     Bug Fix
     Enemy buffs Hew
+    
 -1.49 (7.11.2021) = 
     buffed Sinjids Mana Bomb
     nerfed the hydraulic (Frost) strain

@@ -123,6 +123,12 @@ VERSION CHANGES
     Felicity didnt enter Phase 2 when she reaches 50% HP fixed it
     Agile Exposure Short description fixed
 
+-1.495 (27.04.2022) = 
+    Enemy balancement
+    Kara (Roald) has +10% physical power so if she gains more fire power, she wont be spamming shoot
+    Oberursel is shorter exactly like sonny 2
+
+
 
 Suggestions/Feedbacks 
 

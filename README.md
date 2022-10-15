@@ -127,7 +127,20 @@ VERSION CHANGES
     Enemy balancement
     Kara (Roald) has +10% physical power so if she gains more fire power, she wont be spamming shoot
     Oberursel is shorter exactly like sonny 2
+    
+-1.5 (30.06.2022) = Sound Replacement
 
+Overworld 1 with sonny 1 theme Aftermath Overworld 2 with sonny 2 theme overworld 2
+
+Final Enounter 2017 with sonny 2 final encounter and an unused track with sonny 1 final encounter which now plays at sonny 1 bosses
+
+Heroic Intervention with Heroic Confrontation Outnumbered with Outnumbered sonny 2
+
+Second Wind with Sonny 1 battle theme Duty Calls and Sonny 2 battle theme Internal Conflict was already in the game files, which I just activated
+
+-1.51 (30.06.2022) = Thanks to the bug report I fixed (hopefully a bug)! I'm sorry for this! 
+
+-1.51 (Phone Mod 15.10.2022) = Oberursel shortened. Its like Sonny 2
 
 
 Suggestions/Feedbacks 
